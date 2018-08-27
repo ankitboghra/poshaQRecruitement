@@ -1,0 +1,8 @@
+Task2/Thumbs.db
+Task2/ehthumbs.db
+Task2/Desktop.ini
+
+Task2/node_modules
+Task2/package-lock.json
+*.log
+*.gz
