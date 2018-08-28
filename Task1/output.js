@@ -45,5 +45,4 @@ const submission = async (client, dbName, collectionName, bucketSize) => {
   //Code ends for data aggregation using loadash.js
 }
 submission();
-
 connection.close();
